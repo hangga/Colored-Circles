@@ -1,2 +1,4 @@
 # Colored Circles
-A Processing program that draws circles that change colors when you mouse over them.
+A Processing program. The code draws circles that change color when you mouse over them.
+
+
