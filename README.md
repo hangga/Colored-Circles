@@ -1,6 +1,6 @@
 # Colored Circles
 A Processing program. The code draws circles that change color when you mouse over them.
 
-Try out the project on [Open Processing](http://www.openprocessing.org/sketch/158667)!
+Play with the sketch [here](https://jgriffith23.github.io/processing/ColoredCircles.html)! Try clicking and dragging as you mouse around the widget to paint randomly-colored circles yourself.
 
 
